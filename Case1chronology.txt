@@ -1,0 +1,18 @@
+Accuser: Stanimir
+Defendant: Miro
+
+Legal entities: 
+Judge Nehodim
+Accuser's lawyer Ivan
+Defendant's lawyer Lenche
+
+Juryman Fifi
+Juryman Kuku
+Juryman mitko
+
+Lawyer Ivan asked а question to Miro
+Lawyer Ivan asked а question to Miro
+Lawyer Ivan asked а question to Miro
+Lawyer Ivan asked а question to Vanka
+Lawyer Ivan asked а question to Vanka
+Decision: Not guilty!

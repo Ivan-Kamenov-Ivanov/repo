@@ -1,0 +1,30 @@
+Prosecutor: Venco
+Defendant: Poli
+
+Legal entities: 
+Judge Nehodim
+Defendant's lawyer Vanche
+
+Juryman Fifi
+Juryman Mimi
+Juryman Mimi
+Juryman Joro
+Juryman Petq
+Juryman Shushi
+Juryman Shushi
+Juryman Kuku
+Juryman Mara
+Juryman Kuku
+
+Prosecutor Venco asked а question to Poli
+Prosecutor Venco asked а question to Poli
+Prosecutor Venco asked а question to Poli
+Prosecutor Venco asked а question to Poli
+Prosecutor Venco asked а question to Poli
+Prosecutor Venco asked а question to Qvka
+Prosecutor Venco asked а question to Qvka
+Prosecutor Venco asked а question to Qvka
+Prosecutor Venco asked а question to Qvka
+Prosecutor Venco asked а question to Qvka
+Decision: Guilty!
+7 years in jail.
