@@ -5,10 +5,11 @@ import java.util.List;
 
 public class Defendant extends Citizen {
 
-    private List<Lawyer> lawyers = new ArrayList<>();
+    private List<Lawyer> lawyers;
 
     Defendant(String name) {
         super(name);
+        lawyers = new ArrayList<>();
         Citizen.citizens.computeIfAbsent(Role.DEFENDANT, k -> new ArrayList<>());
         this.addToList();
     }
